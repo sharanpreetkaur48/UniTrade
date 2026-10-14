@@ -1,0 +1,6 @@
+{
+  "name": "UniTrade - College Student Marketplace",
+  "description": "Peer-to-peer campus marketplace for college students to buy and sell textbooks, calculators, electronics, shoes, and hostel essentials with campus pickup, delivery, COD, and freelance gigs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
